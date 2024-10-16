@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=GameOfLife
+comment1.params=d\ loc
+comment1.target=boolean\ rule(GridDisplay,\ Location)
+comment2.params=d\ loc
+comment2.target=void\ makeBlack(GridDisplay,\ Location)
+comment3.params=d\ loc
+comment3.target=void\ makeNotBlack(GridDisplay,\ Location)
+comment4.params=d\ loc
+comment4.target=void\ makeWhite(GridDisplay,\ Location)
+comment5.params=d\ loc
+comment5.target=void\ makeNotWhite(GridDisplay,\ Location)
+comment6.params=
+comment6.target=void\ life()
+numComments=7
